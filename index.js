@@ -57,12 +57,6 @@ return parseFloat(n)
 }
 preserveDecimal(2.33)
 
-function preserveDecimal(n) {
-  return parseFloat()
-}
-
-preserveDecimal(3.3645646)
-
 
 
 
