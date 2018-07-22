@@ -53,7 +53,7 @@ function makeInt(n) {
 makeInt(2, 10)
 
 
-function preserveDecimal(n) {
+```function preserveDecimal(n) {
   return parseFloat(n)
 }
 
