@@ -56,7 +56,7 @@ makeInt(2, 10)
 function preserveDecimal(n) {
   return parseFloat(n)
 }
-preserveDecimal(1.2)
+
 
 
 function preserveDecimal(n) {
