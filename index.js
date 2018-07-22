@@ -59,13 +59,6 @@ function preserveDecimal(n) {
 
 
 
-function preserveDecimal(n) {
-  var number = parseFloat('n')
-  return number
-}
-
-preserveDecimal(3.3645646)
-
 
 
 
